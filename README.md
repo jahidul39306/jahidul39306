@@ -12,7 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidul-islam-noor-696949344/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidulislamananto@gmail.com)
-📱 Phone: +8801748684914
 
 </div>
 
