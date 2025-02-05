@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I am Jahid.
+# Hi, I am Jahid 👋
 
 </div>
 
@@ -58,8 +58,7 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=jahidul39306&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
