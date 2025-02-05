@@ -8,8 +8,6 @@
 
 <div align="center">
 
-<div align="center">
-
 #### 🌐 Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidul-islam-noor-696949344/) 
@@ -22,7 +20,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently looking for web development job.<br>🌱 I’m currently learning Next Js<br>⚡ Fun fact: I enjoy solving LeetCode problems (even though I prefer development work)! 🚀
+🔭 I’m currently looking for a web development job.<br>🌱 I’m currently learning Next Js<br>⚡ Fun fact: I enjoy solving LeetCode problems (even though I prefer development work)! 🚀
 
 
 ## 💻 Tech Stack:
