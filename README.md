@@ -14,7 +14,7 @@
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidulislamananto@gmail.com) 
 &nbsp;&nbsp;
-📱 +8801748684914  
++8801748684914  
 
 </div>
 
