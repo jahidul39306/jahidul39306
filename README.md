@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I am Jahidul Islam Noor 👋. Web developer.
+# Hi, I am Jahidul Islam Noor 👋. <br> I am a Web developer.
 
 </div>
 
