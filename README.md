@@ -15,11 +15,19 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahidul39306&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jahidul39306&theme=dark" alt="GitHub Streak" width="48%"/></a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidul39306&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="200px">
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=jahidul39306&theme=dark" alt="GitHub Streak" width="48%" height="200px">
+  </a>
+  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul39306&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul39306&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" height="200px">
+
 </div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
