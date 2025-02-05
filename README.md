@@ -18,9 +18,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=jahidul39306&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="200px">
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=jahidul39306&theme=dark" alt="GitHub Streak" width="48%" height="200px">
-  </a>
+  <img src="https://streak-stats.demolab.com?user=jahidul39306&theme=dark" alt="GitHub Streak" width="48%" height="200px">
   
   <br>
 
