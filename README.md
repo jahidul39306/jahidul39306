@@ -1,9 +1,13 @@
 ![My Profile Banner](https://raw.githubusercontent.com/jahidul39306/jahidul39306/refs/heads/main/cover.webp)
 
+<div align="center">
+
+# Hi, I am Jahid.
+
+</div>
+
 # 💫 About Me:
 🔭 I’m currently looking for web development job.<br>🌱 I’m currently learning Next Js<br>⚡ Fun fact: I enjoy solving LeetCode problems (even though I prefer development work)! 🚀
-
-
 
 
 # 💻 Tech Stack:
