@@ -8,11 +8,18 @@
 
 <div align="center">
 
+<div align="center">
+
 #### 🌐 Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidul-islam-noor-696949344/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidulislamananto@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidul-islam-noor-696949344/) 
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidulislamananto@gmail.com) 
+&nbsp;&nbsp;
 📱 +8801748684914  
+
 </div>
+
 
 ## 💫 About Me:
 🔭 I’m currently looking for web development job.<br>🌱 I’m currently learning Next Js<br>⚡ Fun fact: I enjoy solving LeetCode problems (even though I prefer development work)! 🚀
