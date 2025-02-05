@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jahidul39306&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidul39306&theme=dark&hide_border=false" width="48%">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=jahidul39306&theme=dark&hide_border=false" width="48%">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul39306&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%">
 </div>
